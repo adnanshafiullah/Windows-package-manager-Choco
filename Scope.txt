@@ -1,0 +1,3 @@
+Windows users can now automate through chocolatey to install any softwares.This is the ultimate package manager.
+You can install/uninstall any softwares or packages through this package manager. You can write any script by
+stating a list of softwares/packages and easily install/uninstall them.

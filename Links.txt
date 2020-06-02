@@ -1,0 +1,15 @@
+Link for packages:
+https://chocolatey.org/packages?sortOrder=package-download-count&page=2&prerelease=False&moderatorQueue=False&moderationStatus=all-statuses
+
+Link for installing:
+
+https://chocolatey.org/install
+
+Documentation:
+
+https://chocolatey.org/docs/getting-started
+
+https://chocolatey.org/docs/commands-install#installarguments
+
+
+
